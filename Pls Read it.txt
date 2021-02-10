@@ -1,0 +1,13 @@
+# Fake-connection-Timeout-for-GTPS
+DONT SELL IT, BECAUSE THIS SOURCE ME GIVE FOR FREEE. 100% Free
+This Program Can Make Your Http Connection to be Connection timeout
+
+I make this program with DaFa#9981
+Change SERVERIP to Your VPS IP
+
+Change port 17091 if you using Other UDP Port
+for check your UDP port go ctrl+f and type port
+
+Don't change Port 80 Ok
+
+Don't forget Follow and Star my Repositories
